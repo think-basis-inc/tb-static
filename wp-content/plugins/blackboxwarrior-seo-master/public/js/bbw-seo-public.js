@@ -1,0 +1,1 @@
+(function($){'use strict';$(document).ready(function(){$('.page-index-title').on('click',function(){$('.bbw-main-index').slideToggle("slow");$('.page-index-title i').toggleClass('up down');});});})(jQuery);
